@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/LoginTest.java" line="24" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4b179f9-bdda-42f8-bf88-99d4bca602ae" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="745233862">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.104" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="2" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="java" value="10875" />
+          <entry key="xml" value="224" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10875" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="XML" value="224" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="class" value="9" />
+          <entry key="exe" value="8" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="19" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="9" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="19" />
+          <entry key="Manifest" value="1" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Selenium_Demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/GridTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/PhantomJSTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/Register.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1107">
+              <caret line="56" column="5" selection-start-line="52" selection-start-column="2" selection-end-line="56" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/SendEmailTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding>
+                <element signature="e#896#897#0" expanded="true" />
+                <element signature="e#946#947#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Selenium2018.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runTestng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/DataDriverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/annotations/BeforeTest.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day2/ActionsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3294">
+              <caret line="138" column="78" selection-start-line="136" selection-start-column="7" selection-end-line="138" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ie</find>
+      <find>IEDriverServer</find>
+      <find>shift</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day1/TestNGDemo2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day1/OpenBrowserTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day1/TestNGDemo1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day2/ActionsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day3/JSTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day3/PhantomJsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day3/PhantomJSTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day3/Register.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day3/Login.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day3/LoginTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day3/GridTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day3/SendEmailTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/day3/DataDriverTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Selenium" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="25" />
+    <option name="y" value="58" />
+    <option name="width" value="1936" />
+    <option name="height" value="1086" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Selenium_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="day3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542012201011" />
+    <property name="last_opened_file_path" value="E:/Program Files/Git/bin/git.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Selenium2018" />
+      <recent name="F:\Selenium2018\drivers1" />
+      <recent name="F:\Selenium2018\drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.SendEmailTest">
+    <configuration name="DataDriverTest.testuser" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.day3.DataDriverTest" />
+      <option name="METHOD_NAME" value="testuser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F:/Selenium2018/runTestng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium2018" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/runTestng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginError" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.day3.LoginTest" />
+      <option name="METHOD_NAME" value="loginError" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendEmailTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.day3.SendEmailTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendEmailTest.sendEmail" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.day3.SendEmailTest" />
+      <option name="METHOD_NAME" value="sendEmail" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.LoginTest.loginError" />
+      <item itemvalue="TestNG.SendEmailTest.sendEmail" />
+      <item itemvalue="TestNG.SendEmailTest" />
+      <item itemvalue="TestNG.F:/Selenium2018/runTestng.xml" />
+      <item itemvalue="TestNG.DataDriverTest.testuser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SendEmailTest" />
+        <item itemvalue="TestNG.DataDriverTest.testuser" />
+        <item itemvalue="TestNG.F:/Selenium2018/runTestng.xml" />
+        <item itemvalue="TestNG.SendEmailTest.sendEmail" />
+        <item itemvalue="TestNG.LoginTest.loginError" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4b179f9-bdda-42f8-bf88-99d4bca602ae" name="Default Changelist" comment="" />
+      <created>1540370955401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540370955401</updated>
+      <workItem from="1540370965767" duration="2139000" />
+      <workItem from="1540430125047" duration="13032000" />
+      <workItem from="1540457011452" duration="4182000" />
+      <workItem from="1540461888743" duration="906000" />
+      <workItem from="1540518763055" duration="12376000" />
+      <workItem from="1540780902748" duration="10684000" />
+      <workItem from="1540862330781" duration="6565000" />
+      <workItem from="1540963076208" duration="6187000" />
+      <workItem from="1541065145373" duration="3457000" />
+      <workItem from="1541127878481" duration="5315000" />
+      <workItem from="1541487396657" duration="2367000" />
+      <workItem from="1541582120641" duration="3119000" />
+      <workItem from="1541727568821" duration="21460000" />
+      <workItem from="1541999048695" duration="5816000" />
+      <workItem from="1542012525992" duration="219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SendEmailTest_sendEmail - 2018.11.09 at 13h 54m 06s.xml">
+      <configuration name="SendEmailTest.sendEmail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SendEmailTest_sendEmail - 2018.11.09 at 13h 56m 11s.xml">
+      <configuration name="SendEmailTest.sendEmail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SendEmailTest_sendEmail - 2018.11.09 at 17h 56m 36s.xml">
+      <configuration name="SendEmailTest.sendEmail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SendEmailTest_sendEmail - 2018.11.09 at 17h 58m 18s.xml">
+      <configuration name="SendEmailTest.sendEmail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SendEmailTest_sendEmail - 2018.11.09 at 18h 00m 47s.xml">
+      <configuration name="SendEmailTest.sendEmail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SendEmailTest_sendEmail - 2018.11.09 at 18h 19m 02s.xml">
+      <configuration name="SendEmailTest.sendEmail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SendEmailTest - 2018.11.09 at 18h 19m 45s.xml">
+      <configuration name="SendEmailTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="F__Selenium2018_runTestng_xml - 2018.11.12 at 13h 37m 27s.xml">
+      <configuration name="F:/Selenium2018/runTestng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DataDriverTest_testuser - 2018.11.12 at 14h 30m 43s.xml">
+      <configuration name="DataDriverTest.testuser" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SendEmailTest - 2018.11.12 at 16h 30m 04s.xml">
+      <configuration name="SendEmailTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="97861000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.819242" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" sideWeight="0.18075801" side_tool="true" weight="0.34434968" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.18075801" side_tool="true" weight="0.34434968" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8997868" weight="0.18329719" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.9104478" weight="0.4314185" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49840087" visible="true" weight="0.6670282" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.6670282" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.47121534" weight="0.34924078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.019722814" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/day3/JSTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/day3/SendEmailTest.java</url>
+          <line>66</line>
+          <properties class="com.selenium.day3.SendEmailTest" method="closeChrome">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5184">
+          <caret line="192" column="13" selection-start-line="192" selection-start-column="13" selection-end-line="192" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-ie-driver/2.53.1/selenium-ie-driver-2.53.1.jar!/org/openqa/selenium/ie/InternetExplorerDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-ie-driver/2.53.1/selenium-ie-driver-2.53.1.jar!/org/openqa/selenium/ie/InternetExplorerDriverEngine.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/com/google/common/base/Preconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day1/TestNGDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drivers/IEDriverServer.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drivers/chromedriver.exe" />
+    <entry file="file://$PROJECT_DIR$/drivers/MicrosoftWebDriver1.exe" />
+    <entry file="file://$PROJECT_DIR$/drivers/MicrosoftWebDriver.exe" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day1/OpenBrowserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="37" column="65" selection-start-line="31" selection-start-column="4" selection-end-line="37" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day1/TestNGDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="32" column="80" selection-start-line="32" selection-start-column="80" selection-end-line="32" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drivers/phantomjs.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1.jar!/org/openqa/selenium/Keys.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="82" column="18" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/phantomjsdriver/1.3.0/phantomjsdriver-1.3.0.jar!/org/openqa/selenium/phantomjs/PhantomJSDriverService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/phantomjsdriver/1.3.0/phantomjsdriver-1.3.0.jar!/org/openqa/selenium/phantomjs/PhantomJSDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/phantomjsdriver/1.3.0/phantomjsdriver-1.3.0.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6993">
+          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/JSTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" column="12" selection-start-line="36" selection-start-column="10" selection-end-line="37" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/GridTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/PhantomJSTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="56" column="5" selection-start-line="52" selection-start-column="2" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium2018.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runTestng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/DataDriverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/annotations/BeforeTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day2/ActionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3294">
+          <caret line="138" column="78" selection-start-line="136" selection-start-column="7" selection-end-line="138" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/day3/SendEmailTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Selenium2018</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:2.1_3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
