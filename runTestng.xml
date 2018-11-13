@@ -5,7 +5,7 @@
     <classes>
       <class name="com.selenium.day3.LoginTest">
         <methods>
-          <include name="loginSucces"/>
+          <include name="loginError"/>
         </methods>
       </class> <!-- com.selenium.day3.LoginTest -->
     </classes>
