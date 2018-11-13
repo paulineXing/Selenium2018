@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class LoginTest {
-    WebDriver driver;
+   private WebDriver driver;
     @BeforeTest
     public void openChrome()
     {
@@ -20,9 +20,9 @@ public class LoginTest {
         driver.get("https://mail.163.com/");
     }
     @Test
-    public void loginSucces() throws InterruptedException {
+    public void loginSucces()  {
 
-        loginElement(driver,"17709183385","lixing12345");
+        loginElement(driver,"17709183385","aa");
         waitElement(driver,10,"//*[@id=\"_mail_component_35_35\"]/a");
         String loginout=driver.findElement(By.xpath("//*[@id=\"_mail_component_35_35\"]/a")).getText();
         Assert.assertEquals(loginout,"退出");
@@ -30,7 +30,7 @@ public class LoginTest {
     @Test
     public void loginError()
     {
-        loginElement(driver,"17709183385","lixing12365");
+        loginElement(driver,"17709183385","aa");
         waitElement(driver,3,"//*[@id=\"nerror\"]/div[2]");
         String msg=driver.findElement(By.xpath("//*[@id=\"nerror\"]/div[2]")).getText();
         Assert.assertEquals(msg,"帐号或密码错误");

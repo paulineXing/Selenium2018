@@ -3,7 +3,11 @@
 <suite name="Default Suite">
   <test name="Selenium_Demo">
     <classes>
-      <class name="com.selenium.day3.SendEmailTest"/>
+      <class name="com.selenium.day3.LoginTest">
+        <methods>
+          <include name="loginSucces"/>
+        </methods>
+      </class> <!-- com.selenium.day3.LoginTest -->
     </classes>
   </test> <!-- Selenium_Demo -->
 </suite> <!-- Default Suite -->

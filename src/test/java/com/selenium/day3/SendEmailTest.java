@@ -16,9 +16,9 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class SendEmailTest {
-    WebDriver driver;
+    private WebDriver driver;
     @BeforeTest
-    public void openChrome() throws MalformedURLException {
+    public void openChrome() {
         //DesiredCapabilities dc=DesiredCapabilities.chrome();
         //driver=new RemoteWebDriver(new URL("http://172.28.1.81:5555/wd/hub"),dc);
     }
@@ -31,21 +31,20 @@ public class SendEmailTest {
     public void sendEmail(String browser) throws MalformedURLException
     {
         DesiredCapabilities dc = null;
-        if (browser.equals("firefox"))
-        {
-            dc=DesiredCapabilities.firefox();
-        }
-        else if(browser.equals("chrome"))
-        {
-            dc= DesiredCapabilities.chrome();
-        }
-        else
-        {
-            System.out.println("Test");
+        switch (browser) {
+            case "firefox":
+                dc = DesiredCapabilities.firefox();
+                break;
+            case "chrome":
+                dc = DesiredCapabilities.chrome();
+                break;
+            default:
+                System.out.println("Test");
+                break;
         }
        driver=new RemoteWebDriver(new URL("http://172.28.1.81:5555/wd/hub"),dc);
        driver.get("https://mail.163.com/");
-       LoginTest.loginElement(driver,"17709183385","lixing12345");
+       LoginTest.loginElement(driver,"17709183385","aa");
        String path="//*[@id=\"dvNavTop\"]/ul/li[2]/span[2]";
        LoginTest.waitElement(driver,3,path);
        driver.findElement(By.xpath(path)).click();
